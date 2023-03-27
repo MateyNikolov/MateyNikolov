@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MateyNikolov
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python Fundamentals.
-- 💞️ I’m looking to collaborate on Python Projects.
+- 🌱 I’m currently learning Python and Java Script.
+- 💞️ I’m looking to collaborate on WEB Projects.
 - 📫 You can reach me on my Facebook Page - https://www.facebook.com/mnikolov92/
 
 <!---
